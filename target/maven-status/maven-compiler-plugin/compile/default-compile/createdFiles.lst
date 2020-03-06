@@ -1,8 +1,0 @@
-com\pruebapuxles\microprofile\rest\RestApplication.class
-com\pruebapuxles\microprofile\rest\TallerEndPoint.class
-com\pruebapuxles\microprofile\document\Habilidad.class
-com\pruebapuxles\microprofile\document\Taller.class
-com\pruebapuxles\microprofile\mongoDB\mongoConnection.class
-com\pruebapuxles\microprofile\rest\HabilidadEndPoint.class
-com\pruebapuxles\microprofile\document\Persona.class
-com\pruebapuxles\microprofile\rest\PersonaEndPoint.class
